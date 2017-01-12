@@ -17,6 +17,7 @@ public class Ptut_qcm {
     public static void main(String[] args) {
         System.out.println("Bonjour");
         int a;
+        int b;
     }
     
 }
