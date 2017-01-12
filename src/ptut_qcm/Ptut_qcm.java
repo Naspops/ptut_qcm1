@@ -18,6 +18,11 @@ public class Ptut_qcm {
         System.out.println("Bonjour");
         int a;
         int b;
+        Bonjour j'aime bien les chat
+                grd
+                        grd
+                        gd
+                                r'
     }
     
 }
